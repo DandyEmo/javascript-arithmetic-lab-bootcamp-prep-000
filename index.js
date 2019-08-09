@@ -15,5 +15,5 @@ function divide(a,b) {
 }
 
 var number = n
-  return n++;
- number;
+number++;
+number;
