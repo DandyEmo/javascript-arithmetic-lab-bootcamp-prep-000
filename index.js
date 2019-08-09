@@ -14,6 +14,6 @@ function divide(a,b) {
   return a / b ; 
 }
 
-var number = n
-number++;
-number;
+function increment(n) {
+  return n++;
+}
