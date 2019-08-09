@@ -16,3 +16,4 @@ function divide(a,b) {
 
 var number = n
  console.log(n++);
+ number;
