@@ -1,2 +1,2 @@
 function add(a, b) {
-  return 80 + 401; 
+  return a + b ; 
