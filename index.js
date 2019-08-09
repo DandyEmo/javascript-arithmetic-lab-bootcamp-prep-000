@@ -14,4 +14,5 @@ function divide(a,b) {
   return a / b ; 
 }
 
-var number = 332
+var number = 332 
+  return number++
