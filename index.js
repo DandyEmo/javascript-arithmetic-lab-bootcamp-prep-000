@@ -14,5 +14,6 @@ function divide(a,b) {
   return a / b ; 
 }
 
-var number = 332 
- console.log(number++);
+var number = n
+ 
+ number++
